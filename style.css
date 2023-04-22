@@ -1,0 +1,32 @@
+body {
+}
+div.DivBlock {
+	width: 30%;
+	float: left;
+	min-width: 300px;
+	min-height: 465px;
+	text-align: center;
+	border: 1px solid #b4b4b4;
+	border-radius: 3px;
+	padding: 5px 10px 5px 10px;
+	margin: 5px;
+}
+div.DivBlock img {
+	max-height: 240px;
+}
+div.DivBlock p#name {
+	text-align: center;
+	font-size: 19px;
+}
+div.DivBlock p {
+	font-family: roboto;
+	font-size: 16px;
+	text-align: left;
+	margin: 3px 0px 3px 0px;
+}
+div.DivBlock p#desc {
+	text-align: left;
+	font-size: 16px;
+	font-family: roboto;
+	margin-top:20px;
+}
